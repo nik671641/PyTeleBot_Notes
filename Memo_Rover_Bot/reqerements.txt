@@ -1,0 +1,4 @@
+aiogram
+asyncpg
+psycopg2
+SQLAlchemy
