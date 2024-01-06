@@ -3,6 +3,7 @@ DATABASE_URL = 'postgresql://Username:Password@localhost:5432/Database'
 from sqlalchemy import Column, Integer, String
 from sqlalchemy.ext.declarative import declarative_base
 
+
 Base = declarative_base()
 
 
