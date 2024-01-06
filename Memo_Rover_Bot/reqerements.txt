@@ -2,3 +2,4 @@ aiogram
 asyncpg
 psycopg2
 SQLAlchemy
+openai
